@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\C#\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectUniqueName": "C:\\Code\\C#\\Pottencial.NetDeveloper\\Propriedades, Métodos e Construtores com C#\\ExemploExplorando\\ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "C:\\Code\\C#\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectPath": "C:\\Code\\C#\\Pottencial.NetDeveloper\\Propriedades, Métodos e Construtores com C#\\ExemploExplorando\\ExemploExplorando.csproj",
       "packagesPath": "C:\\Users\\patrickmf.dsn.pack\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\C#\\ExemploExplorando\\obj\\",
+      "outputPath": "C:\\Code\\C#\\Pottencial.NetDeveloper\\Propriedades, Métodos e Construtores com C#\\ExemploExplorando\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patrickmf.dsn.pack\\AppData\\Roaming\\NuGet\\NuGet.Config"
