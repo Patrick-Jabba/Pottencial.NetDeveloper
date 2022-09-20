@@ -1,0 +1,15 @@
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\bin\Debug\net6.0\ExemploTuplas-Ternario.exe
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\bin\Debug\net6.0\ExemploTuplas-Ternario.deps.json
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\bin\Debug\net6.0\ExemploTuplas-Ternario.runtimeconfig.json
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\bin\Debug\net6.0\ExemploTuplas-Ternario.dll
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\bin\Debug\net6.0\ExemploTuplas-Ternario.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ExemploTuplas-Ternario.csproj.AssemblyReference.cache
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ExemploTuplas-Ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ExemploTuplas-Ternario.AssemblyInfoInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ExemploTuplas-Ternario.AssemblyInfo.cs
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ExemploTuplas-Ternario.csproj.CoreCompileInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ExemploTuplas-Ternario.dll
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\refint\ExemploTuplas-Ternario.dll
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ExemploTuplas-Ternario.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ExemploTuplas-Ternario.genruntimeconfig.cache
+C:\Code\C#\Pottencial.NetDeveloper\Tuplas, Operador Ternário Descontrução de um Objeto com C#\ExemploTuplas-Ternario\obj\Debug\net6.0\ref\ExemploTuplas-Ternario.dll
