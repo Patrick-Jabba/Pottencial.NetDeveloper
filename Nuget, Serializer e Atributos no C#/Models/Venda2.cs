@@ -6,12 +6,13 @@ using Newtonsoft.Json;
 
 namespace Nuget__Serializer_e_Atributos_no_C_.Models
 {
-    public class Venda2
-    {
-        public int Id { get; set; }
-        [JsonProperty("Nome_Produto")]
-        public string Produto { get; set; }
-        public decimal Preco { get; set; }
-        public DateTime DataVenda { get; set; }
-    }
+  public class Venda2
+  {
+    public int Id { get; set; }
+    [JsonProperty("Nome_Produto")]
+    public string Produto { get; set; }
+    public decimal Preco { get; set; }
+    public DateTime DataVenda { get; set; }
+    public decimal? Desconto { get; set; }
+  }
 }
