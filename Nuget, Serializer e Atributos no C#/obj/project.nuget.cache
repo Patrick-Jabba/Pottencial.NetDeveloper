@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbyzIwApab6bsvG7jI9zy4CRO4fktSYfilW66zW9sTVmZKrG6erW5vZY7ao+5mhKD9p3kmErs4z3fTTlHSJUfg==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\C#\\Pottencial.NetDeveloper\\Nuget, Serializer e Atributos no C#\\Nuget, Serializer e Atributos no C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patrickmf.dsn.pack\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

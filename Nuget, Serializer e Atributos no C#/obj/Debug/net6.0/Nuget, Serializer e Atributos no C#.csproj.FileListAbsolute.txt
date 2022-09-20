@@ -1,0 +1,17 @@
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\bin\Debug\net6.0\Nuget, Serializer e Atributos no C#.exe
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\bin\Debug\net6.0\Nuget, Serializer e Atributos no C#.deps.json
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\bin\Debug\net6.0\Nuget, Serializer e Atributos no C#.runtimeconfig.json
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\bin\Debug\net6.0\Nuget, Serializer e Atributos no C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\bin\Debug\net6.0\Nuget, Serializer e Atributos no C#.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.csproj.AssemblyReference.cache
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.AssemblyInfoInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.AssemblyInfo.cs
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.csproj.CoreCompileInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.csproj.CopyComplete
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\refint\Nuget, Serializer e Atributos no C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\Nuget, Serializer e Atributos no C#.genruntimeconfig.cache
+C:\Code\C#\Pottencial.NetDeveloper\Nuget, Serializer e Atributos no C#\obj\Debug\net6.0\ref\Nuget, Serializer e Atributos no C#.dll
