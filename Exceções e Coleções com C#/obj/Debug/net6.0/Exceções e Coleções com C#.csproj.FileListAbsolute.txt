@@ -1,0 +1,15 @@
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\bin\Debug\net6.0\Exceções e Coleções com C#.exe
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\bin\Debug\net6.0\Exceções e Coleções com C#.deps.json
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\bin\Debug\net6.0\Exceções e Coleções com C#.runtimeconfig.json
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\bin\Debug\net6.0\Exceções e Coleções com C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\bin\Debug\net6.0\Exceções e Coleções com C#.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\Exceções e Coleções com C#.csproj.AssemblyReference.cache
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\Exceções e Coleções com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\Exceções e Coleções com C#.AssemblyInfoInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\Exceções e Coleções com C#.AssemblyInfo.cs
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\Exceções e Coleções com C#.csproj.CoreCompileInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\Exceções e Coleções com C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\refint\Exceções e Coleções com C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\Exceções e Coleções com C#.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\Exceções e Coleções com C#.genruntimeconfig.cache
+C:\Code\C#\Pottencial.NetDeveloper\Exceções e Coleções com C#\obj\Debug\net6.0\ref\Exceções e Coleções com C#.dll
