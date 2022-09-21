@@ -1,0 +1,15 @@
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\bin\Debug\net6.0\Exemplo Poo.exe
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\bin\Debug\net6.0\Exemplo Poo.deps.json
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\bin\Debug\net6.0\Exemplo Poo.runtimeconfig.json
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\bin\Debug\net6.0\Exemplo Poo.dll
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\bin\Debug\net6.0\Exemplo Poo.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\Exemplo Poo.csproj.AssemblyReference.cache
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\Exemplo Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\Exemplo Poo.AssemblyInfoInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\Exemplo Poo.AssemblyInfo.cs
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\Exemplo Poo.csproj.CoreCompileInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\Exemplo Poo.dll
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\refint\Exemplo Poo.dll
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\Exemplo Poo.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\Exemplo Poo.genruntimeconfig.cache
+C:\Code\C#\Pottencial.NetDeveloper\Exemplo Poo\obj\Debug\net6.0\ref\Exemplo Poo.dll
