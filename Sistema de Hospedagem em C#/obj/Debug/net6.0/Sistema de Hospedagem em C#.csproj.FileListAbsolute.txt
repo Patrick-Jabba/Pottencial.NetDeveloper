@@ -1,0 +1,15 @@
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\bin\Debug\net6.0\Sistema de Hospedagem em C#.exe
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\bin\Debug\net6.0\Sistema de Hospedagem em C#.deps.json
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\bin\Debug\net6.0\Sistema de Hospedagem em C#.runtimeconfig.json
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\bin\Debug\net6.0\Sistema de Hospedagem em C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\bin\Debug\net6.0\Sistema de Hospedagem em C#.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\Sistema de Hospedagem em C#.csproj.AssemblyReference.cache
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\Sistema de Hospedagem em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\Sistema de Hospedagem em C#.AssemblyInfoInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\Sistema de Hospedagem em C#.AssemblyInfo.cs
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\Sistema de Hospedagem em C#.csproj.CoreCompileInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\Sistema de Hospedagem em C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\refint\Sistema de Hospedagem em C#.dll
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\Sistema de Hospedagem em C#.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\Sistema de Hospedagem em C#.genruntimeconfig.cache
+C:\Code\C#\Pottencial.NetDeveloper\Sistema de Hospedagem em C#\obj\Debug\net6.0\ref\Sistema de Hospedagem em C#.dll

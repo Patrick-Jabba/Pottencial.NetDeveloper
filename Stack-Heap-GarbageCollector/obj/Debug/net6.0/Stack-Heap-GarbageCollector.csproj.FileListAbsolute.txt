@@ -1,0 +1,15 @@
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\bin\Debug\net6.0\Stack-Heap-GarbageCollector.exe
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\bin\Debug\net6.0\Stack-Heap-GarbageCollector.deps.json
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\bin\Debug\net6.0\Stack-Heap-GarbageCollector.runtimeconfig.json
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\bin\Debug\net6.0\Stack-Heap-GarbageCollector.dll
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\bin\Debug\net6.0\Stack-Heap-GarbageCollector.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\Stack-Heap-GarbageCollector.csproj.AssemblyReference.cache
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\Stack-Heap-GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\Stack-Heap-GarbageCollector.AssemblyInfoInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\Stack-Heap-GarbageCollector.AssemblyInfo.cs
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\Stack-Heap-GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\Stack-Heap-GarbageCollector.dll
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\refint\Stack-Heap-GarbageCollector.dll
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\Stack-Heap-GarbageCollector.pdb
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\Stack-Heap-GarbageCollector.genruntimeconfig.cache
+C:\Code\C#\Pottencial.NetDeveloper\Stack-Heap-GarbageCollector\obj\Debug\net6.0\ref\Stack-Heap-GarbageCollector.dll
