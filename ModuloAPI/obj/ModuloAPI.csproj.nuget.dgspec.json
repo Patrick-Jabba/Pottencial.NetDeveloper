@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\C#\\Pottencial.NetDeveloper\\ModuloAPI\\ModuloAPI.csproj": {}
+    "E:\\DOWNLOADS HD\\PROGRAMAÇÃO\\ESTUDOS E CURSOS\\DIO\\Pottencial.NetDeveloper\\ModuloAPI\\ModuloAPI.csproj": {}
   },
   "projects": {
-    "C:\\Code\\C#\\Pottencial.NetDeveloper\\ModuloAPI\\ModuloAPI.csproj": {
+    "E:\\DOWNLOADS HD\\PROGRAMAÇÃO\\ESTUDOS E CURSOS\\DIO\\Pottencial.NetDeveloper\\ModuloAPI\\ModuloAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\C#\\Pottencial.NetDeveloper\\ModuloAPI\\ModuloAPI.csproj",
+        "projectUniqueName": "E:\\DOWNLOADS HD\\PROGRAMAÇÃO\\ESTUDOS E CURSOS\\DIO\\Pottencial.NetDeveloper\\ModuloAPI\\ModuloAPI.csproj",
         "projectName": "ModuloAPI",
-        "projectPath": "C:\\Code\\C#\\Pottencial.NetDeveloper\\ModuloAPI\\ModuloAPI.csproj",
-        "packagesPath": "C:\\Users\\patrickmf.dsn.pack\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\C#\\Pottencial.NetDeveloper\\ModuloAPI\\obj\\",
+        "projectPath": "E:\\DOWNLOADS HD\\PROGRAMAÇÃO\\ESTUDOS E CURSOS\\DIO\\Pottencial.NetDeveloper\\ModuloAPI\\ModuloAPI.csproj",
+        "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
+        "outputPath": "E:\\DOWNLOADS HD\\PROGRAMAÇÃO\\ESTUDOS E CURSOS\\DIO\\Pottencial.NetDeveloper\\ModuloAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\patrickmf.dsn.pack\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Patrick\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
